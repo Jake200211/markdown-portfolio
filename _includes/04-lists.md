@@ -1,1 +1,3 @@
-:heart:
+- :heart:
+- :dog:
+- :palm_tree:
